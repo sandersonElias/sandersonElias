@@ -41,7 +41,7 @@
 ---
 
 ### 📌 Projetos em destaque:
-- [📚 Sistema de Biblioteca Escolar (Java + React + PostgreSQL)](link-do-repositorio)
+- [📚 Sistema de Biblioteca Escolar (Java + React + PostgreSQL)](https://github.com/sandersonElias/GerenciadorBiblioteca)
 
 ---
 
