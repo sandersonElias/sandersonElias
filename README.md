@@ -40,11 +40,6 @@
 
 ---
 
-### 📌 Projetos em destaque:
-- [📚 Sistema de Biblioteca Escolar (Java + React + PostgreSQL)](https://github.com/sandersonElias/GerenciadorBiblioteca)
-
----
-
 ### 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/sandersonelias)  
 - [Email](mailto:sanderson.sae@gmail.com)
