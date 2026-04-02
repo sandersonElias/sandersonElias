@@ -2,7 +2,7 @@
 
 ## **`Desenvolvedor FullStack`**
 
-👋 Olá! Sou Sanderson André Elias, estudante de Desenvolvimento de Sistemas (2º ano do ensino médio integrado), com 2 anos de experiência em programação.  
+👋 Olá! Sou Sanderson André Elias, estudante de Desenvolvimento de Sistemas (3º ano do ensino médio integrado), com 1 anos de experiência em programação.  
 💻 Tecnologias que estudo: Java, Spring Boot, React, TypeScript, PostgreSQL.  
 🚀 Atualmente desenvolvo um sistema de biblioteca escolar fullstack, aplicando meus conhecimentos em back-end e front-end.  
 🌱 Sempre em busca de aprender mais e evoluir como futuro engenheiro de software.  
