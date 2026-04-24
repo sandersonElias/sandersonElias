@@ -2,8 +2,7 @@
 
 `Desenvolvedor Back-end | Java & Spring Boot`
 
-👋 Olá! Sou Sanderson André Elias, estudante de Desenvolvimento de Sistemas (3º ano do ensino médio integrado), com 2 anos de experiência em programação e foco em back-end.
-
+👋 Olá! Sou Sanderson André Elias, estudante de Desenvolvimento de Sistemas (3º ano do ensino médio integrado), com 2 anos de experiência em programação e foco em back-end.<br>
 💡 Tecnologias que estudo: Java, Spring Boot, PostgreSQL, React, TypeScript. <br>
 🚀 Atualmente desenvolvo um sistema fullstack de gerenciamento de biblioteca escolar, aplicando meus conhecimentos de back-end e front-end. <br>
 🎤 Também sou palestrante — já apresentei meus projetos e métodos de estudo para diferentes públicos. <br>
