@@ -45,4 +45,4 @@
 ### 📬 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/sandersonelias)
-- 📧 sanderson.sae@gmail.com
+- 📧 sanderson.andre26@gmail.com
